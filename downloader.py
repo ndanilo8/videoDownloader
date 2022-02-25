@@ -1,3 +1,8 @@
+# Author: Danilo Nascimento
+# E-mail: danilo@daniloonspace.com
+
+
+
 from yt_dlp import YoutubeDL
 
 # Script to download to videos/music from a .txt file

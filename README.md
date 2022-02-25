@@ -6,5 +6,4 @@ When you have a bunch of videos, music from different sources.. just paste them 
 ## Pre-Requirements
 - yt-dlp installed https://github.com/yt-dlp/yt-dlp
 - ffmpeg installed https://www.ffmpeg.org/
-- 
 
